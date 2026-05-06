@@ -1,0 +1,155 @@
+ticket,label
+I was charged twice for my subscription,billing
+Refund not processed yet,billing
+Payment failed but money deducted,billing
+Why did I get billed again,billing
+Subscription fee charged incorrectly,billing
+I want a refund for my last payment,billing
+Money deducted but no service activated,billing
+Billing amount is incorrect,billing
+I was overcharged this month,billing
+Duplicate charge on my card,billing
+I canceled but still got charged,billing
+Payment went through but no confirmation,billing
+Why was I billed after cancellation,billing
+Incorrect billing amount shown,billing
+Refund taking too long,billing
+Charged without my permission,billing
+Payment not reflecting in account,billing
+Double payment issue,billing
+Refund request still pending,billing
+Subscription charged early,billing
+Unexpected billing amount,billing
+Billing history is wrong,billing
+Auto-renewal charged me,billing
+I want to dispute a charge,billing
+Payment deducted twice,billing
+Incorrect invoice generated,billing
+Refund not credited to bank,billing
+Billing issue with premium plan,billing
+Payment successful but no access,billing
+I need invoice for my payment,billing
+
+I cannot login to my account,account
+Forgot my password,account
+Account locked after multiple attempts,account
+OTP not received for login,account
+Unable to reset password,account
+Login page not working,account
+My account got hacked,account
+Cannot access my profile,account
+Password reset link expired,account
+Email not recognized,account
+Unable to verify account,account
+Account temporarily disabled,account
+Login credentials not working,account
+Cannot sign into my account,account
+Facing issues with login,account
+Account verification failed,account
+Reset password not working,account
+Unable to create account,account
+Error during login process,account
+My account is blocked,account
+Having trouble signing in,account
+Login session expired quickly,account
+Account access denied,account
+Username not found,account
+Login issue after update,account
+Account recovery not working,account
+Cannot authenticate my account,account
+Sign in failed multiple times,account
+Email verification not received,account
+Unable to access account settings,account
+
+App crashes when I open it,bug
+Application not responding,bug
+App freezes frequently,bug
+Error message shown on startup,bug
+Feature not working properly,bug
+Screen goes blank after login,bug
+App crashes on clicking button,bug
+Unexpected error occurred,bug
+App stuck on loading screen,bug
+UI not rendering correctly,bug
+App closes automatically,bug
+Bug in latest update,bug
+Crash while using feature,bug
+App performance is slow,bug
+Page not loading correctly,bug
+Error code displayed on screen,bug
+App not opening at all,bug
+Issue with navigation,bug
+Lagging while scrolling,bug
+Glitch in UI elements,bug
+App stuck after update,bug
+Feature crashes app,bug
+Unexpected shutdown of app,bug
+Buttons not clickable,bug
+App behaves strangely,bug
+Error while performing action,bug
+Crash on specific screen,bug
+App restart issue,bug
+Problem with app stability,bug
+Software bug affecting usage,bug
+
+Cannot access premium content,content
+Video not loading,content
+Content locked despite subscription,content
+Unable to play videos,content
+Premium features not available,content
+Content not visible in app,content
+Issue accessing paid content,content
+Videos buffering continuously,content
+Content not unlocking after payment,content
+Subscription active but no access,content
+Episode not loading,content
+Cannot watch purchased content,content
+Content missing from library,content
+Access denied for premium content,content
+Streaming issue with videos,content
+Content not updating,content
+Unable to download content,content
+Playback error while watching,content
+Content restricted incorrectly,content
+Audio/video sync issue,content
+Content not playing smoothly,content
+Unable to view content,content
+Purchased content not available,content
+Content page shows error,content
+Subscription not reflecting in content,content
+Content loading very slow,content
+Cannot open specific content,content
+Video playback failed,content
+Content unavailable error,content
+Issue with content access after login,content
+
+I love the app,general
+Great experience using this app,general
+The app is very useful,general
+Nice features and design,general
+Good job on the latest update,general
+I have some suggestions,general
+App could be improved,general
+Feature request for dark mode,general
+Please add more content,general
+User interface is clean,general
+Enjoying the app so far,general
+App performance is decent,general
+I like the new features,general
+Could use some improvements,general
+Happy with the service,general
+App is easy to use,general
+Feedback on user experience,general
+Add more customization options,general
+Improve app speed,general
+Feature suggestion for notifications,general
+App design is good,general
+Overall satisfied,general
+App is helpful,general
+Keep improving the app,general
+Good but needs improvements,general
+Add more languages,general
+User experience can be better,general
+App is smooth,general
+Provide more updates,general
+Nice work by developers,general
